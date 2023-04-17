@@ -1,0 +1,135 @@
+@media(min-width:1350px){
+	.container{
+		max-width: 1250px;
+	}
+}
+@media(max-width:1199px){
+	.img-menu-action:hover span, .main-menu .menu-list-item.active .nav-link, .main-menu .menu-list-item:hover .nav-link, .main-menu .nav-text-sub:hover{
+	color:#000;
+	}
+	.nav-link{
+		color: #000;
+	}
+}
+@media(max-width:991px){
+	.collectionbox li a{
+		padding: 15px;
+	}
+	.collectionbox li h3{
+		font-size: 13px;
+	}
+	.icon-hamburger{
+		stroke: #fff;
+	}
+}
+@media(max-width:767px){
+	.join_today_inner {
+		width: 100%;
+	}
+	.affiliate_img {
+		height: auto;
+		margin: 0 0 20px 0;
+	}
+	.affiliate_img img{
+		height: auto;
+	}
+	.gallery-thumbs .swiper-slide {
+		width: 25%!important;
+		margin: 10px 0;
+	}
+	.outer_focus {
+		width: 100%;
+		height: auto;
+		display: block;
+	}
+	.gallery-top {
+		height: 100%;
+		width: 100%;
+		margin: 0;
+	}
+	.gallery-thumbs {
+		height: 100%;
+		width: 100%;
+		box-sizing: border-box;
+		padding: 0 0 0 10px;
+		overflow-x: hidden;
+	}
+	.swiper-wrapper-outer {
+		display: flex;
+	}
+	.news_main h2{
+		height: auto;
+	}
+	.news_main p{
+		height: auto;
+	}
+	.gallery_details {
+    padding: 50px 0;
+}
+	.contact_right{
+		margin: 20px 0 0 0;
+	}
+	.collectionbox{
+		display: block;
+		text-align: center;
+	}
+	.collectionbox li{
+		width: 32%;
+		vertical-align: top;
+	}
+	.collectionbox li a{
+		border-left: 1px solid #eeee;
+	}
+	.category-box h4{
+		font-size: 13px;
+	}
+	.latestnews .category-box p{
+		font-size: 13px;
+	}
+	.category-box img{
+		height: 110px;
+	}
+	.paymenticons{
+		margin-top: 15px;
+	}
+	.footer-social{
+		justify-content: center;
+	}
+	.paymenticons{
+		text-align: center;
+	}
+	.latestnews .category-box{
+		min-height: 300px;
+	}
+}
+@media(max-width:575px){
+	.slide-img{
+		height: 260px;
+	}
+	.slide-content-1 .slide-heading{
+		font-size: 30px;
+	}
+	.heading_24{
+		font-size: 18px;
+	}
+	.pageheading{
+		font-size: 22px;
+	}
+}
+@media(max-width:480px){
+	.slide-img{
+		height: 180px;
+	}
+
+	.article-card-img{
+		height: 180px;
+	}
+}
+@media (min-width: 768px) and (max-width: 1024px) {
+	.news_main h2{
+		height: auto;
+	}
+	.news_main p{
+		height: auto;
+	}
+}
